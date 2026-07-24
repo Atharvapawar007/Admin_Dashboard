@@ -194,6 +194,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   align-items: center;
   padding: 10px;
+  gap: 10px;
 }
 
 .top > div{
@@ -263,3 +264,6 @@ button{
   font-weight: 700;
 }
 
+.profile-photo-large{
+  min-width: fit-content;
+}
